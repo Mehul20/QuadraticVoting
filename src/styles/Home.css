@@ -23,3 +23,10 @@
     margin-left: 10px;
     margin-right: 10px;
 }
+
+.intro {
+    color: white;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}

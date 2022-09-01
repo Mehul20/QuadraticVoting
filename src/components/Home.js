@@ -23,6 +23,11 @@ function App() {
         fontFamily: "monospace"
       }}> Lessgo </Button> 
       </div>
+      <div className="intro">
+            <p> Built with ❤️ by <a href="https://twitter.com/mehulrastogi20" target="blank"> MehulRastogi </a>
+            <br  /> Open sourced on <a href="https://github.com/Mehul20/QuadraticVoting" target="blank"> Github  </a>
+            </p>
+            </div>
     </div>
   );
 }

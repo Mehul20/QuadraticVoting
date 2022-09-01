@@ -186,7 +186,7 @@ function Share() {
             <p> -- Rules -- </p> 
             <p> Please use your Full Name while voting and don't vote twice!</p>
             <p> 
-            You have 64 votes to use. 
+            You have 64 votes/points to use. 
             <br /> Every vote that you give to a choice will be taken away from the 64 after being squared.
             <br /> So, For example, if you give 4 votes to choice 1. You'll be left with 64 - 16 = 48 votes.
             <br /> If you give 1 vote, you will be left with 48 - 1 = 47 votes.
@@ -196,6 +196,11 @@ function Share() {
           </div>
            </Box>
       </Container>
+      <div className="intro">
+            <p> Built with ❤️ by <a href="https://twitter.com/mehulrastogi20" target="blank"> MehulRastogi </a>
+            <br  /> Open sourced on <a href="https://github.com/Mehul20/QuadraticVoting" target="blank"> Github  </a>
+            </p>
+            </div>
      
         </div>
       );

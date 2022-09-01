@@ -41,3 +41,10 @@
     color: white;
     font-size: 20px;
 }
+
+.intro {
+    color: black;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
