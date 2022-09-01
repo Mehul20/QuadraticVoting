@@ -58,11 +58,8 @@ const buttonclick = async () => {
             margin="normal"
             required
             fullWidth
-            id="name"
             label="Voting For?"
             variant="filled"
-            name="name"
-            autoComplete="name"
             autoFocus
             onChange={(event) => {
               setcampaignname(event.target.value);
@@ -73,11 +70,8 @@ const buttonclick = async () => {
             margin="normal"
             required
             fullWidth
-            id="name"
             label="Choice 1"
             variant="filled"
-            name="name"
-            autoComplete="name"
             autoFocus
             onChange={(event) => {
               setproject1(event.target.value);
@@ -88,11 +82,8 @@ const buttonclick = async () => {
             margin="normal"
             required
             fullWidth
-            id="name"
             label="Choice 2"
             variant="filled"
-            name="name"
-            autoComplete="name"
             autoFocus
             onChange={(event) => {
               setproject2(event.target.value);
@@ -103,11 +94,8 @@ const buttonclick = async () => {
             margin="normal"
             required
             fullWidth
-            id="name"
             label="Choice 3"
             variant="filled"
-            name="name"
-            autoComplete="name"
             autoFocus
             onChange={(event) => {
               setproject3(event.target.value);
@@ -118,11 +106,8 @@ const buttonclick = async () => {
             margin="normal"
             required
             fullWidth
-            id="name"
             label="Choice 4"
             variant="filled"
-            name="name"
-            autoComplete="name"
             autoFocus
             onChange={(event) => {
               setproject4(event.target.value);
