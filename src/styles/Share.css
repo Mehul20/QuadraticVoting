@@ -1,0 +1,32 @@
+.selection {
+    color: white;
+}
+
+.App {
+    height: 1000px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #121212;
+}
+
+.rules {
+    color: white;
+    margin-top: 20px;
+    font-family: monospace;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 15px;
+}
+
+.share {
+    font-family: monospace;
+    color: white;
+    font-size: 20px;
+}

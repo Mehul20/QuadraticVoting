@@ -1,0 +1,25 @@
+.center {
+    height: 600px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #121212;
+}
+
+.heading1 {
+    font-size: 30px;
+    font-weight: bolder;
+    margin-bottom: 30px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-family: monospace;
+    margin-left: 10px;
+    margin-right: 10px;
+}

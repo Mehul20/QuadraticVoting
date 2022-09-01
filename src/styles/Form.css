@@ -1,0 +1,26 @@
+.heading {
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin-top: 40px;
+    font-size: 25px;
+    color: white;
+    font-family: monospace;
+}
+.newapp {
+    height: 600px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #121212;
+}
+.box {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
